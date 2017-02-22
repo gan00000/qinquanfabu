@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 表示应用上架的平台 -->
+    <string name="efunAppPlatform">e00001</string>
+    <!-- facebook appid -->
+    <string name="efunFBApplicationId">267869433551480</string>
+    <!-- 谷歌分析追踪 -->
+    <string name="efunGoogleAnalyticsTrackingId">UA-69481198-27</string>
+
+    <!-- 游戏编码 -->
+    <string name="efunGameCode">semdm</string>
+    <!-- 游戏编简称 -->
+    <string name="efunGameShortName">semdm</string>
+    <!-- 秘钥 -->
+    <string name="efunAppKey">632B10E2B2123E19E13777CCB477CDF8</string>
+    
+    <!-- google分析接入广告的类类名 -->
+    <string name="efunGAListenerName">com.egame.cn.ads.GAAdvert</string>
+    <!-- S2S接入广告的类类名 -->
+    <string name="efunS2SListenerName">com.egame.cn.ads.S2SAdvert</string>
+    
+    <!-- 屏幕方向  ""空为横屏，“v”为竖屏 -->
+    <string name="efunScreenOrientation"></string>
+    <!-- 语言种类 -->
+    <string name="efunLanguage">en_US</string>
+    <!-- 地区前缀 -->
+    <string name="efunPrefixName"></string>
+
+    
+     <!-- 广告首选地址 -->
+    <string name="efunAdsPreferredUrl">http://ad.aseugame.com/</string>
+    <!-- 广告备用地址 -->
+    <string name="efunAdsSpareUrl">http://adsea.aseugame.com/</string>
+
+</resources>

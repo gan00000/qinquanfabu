@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/bg"
+    >
+
+
+	<Button 
+	   	android:layout_width="fill_parent"
+    	android:layout_height="wrap_content"
+    	android:text="install game"
+    	android:id="@+id/download_game"
+    	android:visibility="gone"
+	    />
+<!-- 	 <Button 
+	   	android:layout_width="fill_parent"
+    	android:layout_height="wrap_content"
+    	android:text="暂停"
+    	android:layout_below="@id/download_game"
+    	android:id="@+id/pause"
+	    />  -->
+	
+	<com.egame.cn.view.TextProgressBar
+     android:layout_width="fill_parent" 
+     android:layout_height="50dp" 
+     style="@android:style/Widget.ProgressBar.Horizontal"
+     android:id="@+id/progressBar"
+     android:visibility="gone"
+     android:layout_alignParentBottom="true"
+    />
+	     
+</RelativeLayout>

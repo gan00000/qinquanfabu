@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">Spirit Blast-Goko Legend</string>
+
+    <string name="download_game">download to install game</string>
+    
+    <!-- 配置需要安装的包的报名，空为本包的包名 -->
+    <string name="install_package_name"></string>
+    <string name="install_package_main_activity"></string>
+    <!-- apk下载的路径 -->
+    <string name="install_apk_download_url">http://qilonzhu.download.vsplay.com/app/SprirtBlast.apk</string>
+    
+</resources>

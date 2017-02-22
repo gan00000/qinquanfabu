@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- facebook start -->
+    <string name="ADS_FACEBOOK">true</string>
+    <!-- facebook end -->
+    
+    <!-- ADS_APPFLYER start -->
+    <string name="ADS_APPFLYER">true</string>
+    <string name="ADS_APPFLYER_DEVKEY">WNZWxVLpoCwQXs9K9fDMcS</string>
+    <!-- ADS_APPFLYER end -->
+        
+    <!-- ADS_AdWords start -->
+    <string name="ADS_ADWORDS">true</string>
+    <string name="ADS_ADWORDS_CONVERSIONID">956770804</string>
+    <string name="ADS_ADWORDS_LABEL">AxvECPO30GUQ9NOcyAM</string>
+    <string name="ADS_ADWORDS_VALUE">0.00</string>
+    <string name="ADS_ADWORDS_ISREPEATABLE">false</string>
+    <!-- ADS_AdWords end -->    
+    
+    
+    <!-- inmobi start -->
+    <string name="ADS_INMOBI"></string>
+    <string name="ADS_INMOBI_APPID"></string>
+    <!-- inmobi end -->
+    
+    <!-- CHARTBOOST start -->
+    <string name="ADS_CHARTBOOST"></string>
+    <string name="ADS_CHARTBOOST_APPID"></string>
+    <string name="CHARTBOOST_APPSIGNATURE"></string>
+    <!-- CHARTBOOST end -->
+
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">U.C. 0083</string>
+    <string name="path">下载路径</string>
+    <string name="button">下载</string>
+    <string name="success">下载完成</string>
+    <string name="error">下载失败</string>
+    <string name="stopbutton">停止下载</string>
+    <string name="sdcarderror">SDCard不存在或者写保护</string>
+    
+    <!-- 配置需要安装的包的报名，空为本包的包名 -->
+    <string name="install_package_name"></string>
+    <string name="install_package_main_activity"></string>
+    <!-- apk下载的路径 -->
+    <string name="install_apk_download_url"></string>
+    
+</resources>
